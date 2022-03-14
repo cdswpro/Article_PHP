@@ -19,7 +19,7 @@ mysqli_close($conn);
 
 <body>
     <header>
-        <h1>Artykuły</h1>
+        <h1>Moje artykuły</h1>
     </header>
     <?php require '../components/nav.php' ?>
     <section>

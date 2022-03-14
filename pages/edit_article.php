@@ -18,7 +18,7 @@ if (isset($_POST['title']) && $_POST['content']) {
 
 <body>
     <header>
-        <h1>Artykuły</h1>
+        <h1>Edytuj Artykuł</h1>
     </header>
     <?php require '../components/nav.php' ?>
     <section>

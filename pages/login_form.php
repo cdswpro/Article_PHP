@@ -48,9 +48,12 @@ if ((isset($_SESSION['login_ok'])) && ($_SESSION['login_ok'] == true)) {
                 <br>
                 <br>
 
-                <a href="./register_form.php"><button>ZAREJESTRUJ SIĘ</button></a>
+               
             </form>
-
+            <div class="w-25 m-auto">
+            <a href="./register_form.php"><button>ZAREJESTRUJ SIĘ</button></a>
+            </div>
+            
 
             <br><br>
         </div>

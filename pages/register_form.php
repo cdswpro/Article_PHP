@@ -37,7 +37,7 @@ if ((isset($_SESSION['login_ok'])) && ($_SESSION['login_ok'] == true)) {
         <div>
 
             <div class="w-50 m-auto">
-            <form class="w-25 m-auto border border-info text-justify " action="../func/register.php" method="post">
+            <form class="w-25 m-auto " action="../func/register.php" method="post">
 
                 <label for="login">Wybierz Login:</label><br>
                 <input type="text" name="login"><br>
